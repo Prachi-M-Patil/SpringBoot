@@ -13,5 +13,5 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 spring.session.store-type=jdbc
 spring.session.jdbc.initialize-schema=always
 
-
+drive-link
 https://drive.google.com/drive/folders/1pMQQR65-u27EyldiV5cnciKEpGuwvIuZ?usp=drive_link
